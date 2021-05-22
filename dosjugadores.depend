@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1593796080 source:c:\users\jcamp\desktop\utn\lbo\dosjugadores\defunciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1593788934 c:\users\jcamp\desktop\utn\lbo\dosjugadores\funciones.h
+
+1593796099 source:c:\users\jcamp\desktop\utn\lbo\dosjugadores\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1593796099 source:c:\users\jcamp\desktop\utn\lbo\mododosjugadores\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1593788934 c:\users\jcamp\desktop\utn\lbo\mododosjugadores\funciones.h
+
+1593798460 source:c:\users\jcamp\desktop\utn\lbo\mododosjugadores\defunciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1593807288 source:c:\users\jcamp\desktop\mododosjugadores\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1593806634 c:\users\jcamp\desktop\mododosjugadores\funciones.h
+
+1593808629 source:c:\users\jcamp\desktop\mododosjugadores\defunciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1593808629 source:c:\users\jcamp\desktop\trabajo final generala\defunciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1593808940 c:\users\jcamp\desktop\trabajo final generala\funciones.h
+
+1593810948 source:c:\users\pc\desktop\generalaaaa\defunciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1593810949 c:\users\pc\desktop\generalaaaa\funciones.h
+
+1593810949 source:c:\users\pc\desktop\generalaaaa\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1594926678 source:c:\users\pc\desktop\utn\laboratorio i\tp integrador\generalaaaa\defunciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1593810949 c:\users\pc\desktop\utn\laboratorio i\tp integrador\generalaaaa\funciones.h
+
+1594925253 source:c:\users\pc\desktop\utn\laboratorio i\tp integrador\generalaaaa\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+
+1621697242 source:c:\users\diego ciccarelli\desktop\utn\primer cuatrimestre\laboratorio i\tp integrador\generalaaaa\defunciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1593810950 c:\users\diego ciccarelli\desktop\utn\primer cuatrimestre\laboratorio i\tp integrador\generalaaaa\funciones.h
+
+1621697286 source:c:\users\diego ciccarelli\desktop\utn\primer cuatrimestre\laboratorio i\tp integrador\generalaaaa\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+
